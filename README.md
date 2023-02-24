@@ -1,22 +1,23 @@
 # Snake Game
 
 This is a simple Snake game implemented in Java using Swing and AWT libraries.
-Getting Started
+
+##Getting Started
 
 To play the game, simply run the Main.java file in your Java IDE or by running the command java Main in your terminal. The game will open in a new window and you can use the arrow keys to control the snake.
 
-## Rules
+### Rules
 
 The objective of the game is to eat the food that appears on the game grid and grow the snake. The game ends when the snake collides with the wall or with itself.
 
-## Dependencies
+### Dependencies
 
 This project uses Java 8 and the following libraries:
 
 - Swing
 - AWT
 
-## Files
+### Files
 
 The files included in this project are:
 
