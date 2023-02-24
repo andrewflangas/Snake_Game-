@@ -9,7 +9,7 @@ To play the game, simply run the Main.java file in your Java IDE or by running t
 
 The objective of the game is to eat the food that appears on the game grid and grow the snake. The game ends when the snake collides with the wall or with itself.
 
-##Dependencies
+## Dependencies
 
 This project uses Java 8 and the following libraries:
 
