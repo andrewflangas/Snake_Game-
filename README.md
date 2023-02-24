@@ -2,7 +2,7 @@
 
 This is a simple Snake game implemented in Java using Swing and AWT libraries.
 
-##Getting Started
+## Getting Started
 
 To play the game, simply run the Main.java file in your Java IDE or by running the command java Main in your terminal. The game will open in a new window and you can use the arrow keys to control the snake.
 
